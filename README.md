@@ -41,10 +41,9 @@
 ---
 
 ### 📫 Contact / Connect:
-- 💬 Telegram: [@yourusername](https://t.me/yourusername) *(change this)*
+- 💬 Telegram: [@yourusername](https://t.me/d3vniks)
 - 🖥️ Portfolio site coming soon...
-- 🌐 GitHub: [github.com/Mishan](https://github.com/Mishan) *(or your username)*
-
+- 🌐 GitHub: [github.com/Mishan](https://github.com/d3vniks 
 ---
 
 ⭐️ Keep watching. Big projects are on the way...  
