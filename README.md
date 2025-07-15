@@ -97,7 +97,7 @@ I believe hacking and coding are more than just technical skills — they are wa
 
 I love practical projects that push my skills further. Some ongoing and planned projects include:
 
-- **Wingo Prediction Telegram Bot:** An automation bot predicting results for a gambling game with real-time updates
+- **Prediction Telegram Bot:** An automation bot predicting results for a gambling game with real-time updates
 - **Temp Mail Web App:** A user-friendly temp mail client powered by reliable APIs with dark mode and inbox refresh features
 - **Domain Marketplace:** A full-stack website to list, manage, and sell domain names
 - **Security Scripts:** Bash and Python scripts to automate pentesting workflows and vulnerability scanning
